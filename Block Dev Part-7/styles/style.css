@@ -1,0 +1,24 @@
+.wpt-back {
+    background: rgb(155,221,235);
+    background: radial-gradient(circle, rgba(155,221,235,1) 0%, rgba(0,207,249,1) 100%);
+	padding: 30px;
+	/* text-align: center; */
+	border-radius: 20px;
+}
+.wpt-para {
+    margin: 20px;
+}
+.wpt-button {
+    text-decoration: none;
+    background: #000;
+	border: 0px;
+	border-radius: 5px;
+	padding: 12px 35px;
+	color: #ffffff !important;
+	font-family: sans-serif;
+}
+.wpt-button:hover {
+    text-decoration: none;
+    background: rgb(255, 255, 255);
+    color: #000 !important;
+}

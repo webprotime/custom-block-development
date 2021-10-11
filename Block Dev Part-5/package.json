@@ -1,0 +1,15 @@
+{
+  "name": "advance-custom-block",
+  "version": "1.0.0",
+  "description": "Advance custom gutenberg block by WebProTime",
+  "main": "index.js",
+  "author": "lazydevpro",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "18.0.1"
+  },
+  "scripts": {
+     "start": "wp-scripts start", 
+     "build": "wp-scripts build" 
+    }
+}
